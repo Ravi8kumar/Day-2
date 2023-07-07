@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Phase 1</title>
+    <link rel="stylesheet" href="inde.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #333;
+}
+header h1 {
+    float: left;
+    background-color: #333;
+    color: white;
+}
+li {
+    float: right;
+}
+      
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 21px;
+    background-color: #333;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: green;
+}
+
+img{
+    width: 60px;
+}
+
+</style>
+</head>
+<body>
+
+  <!--Header-->
+  <header>
+    <ul>
+      <h1 style="float: left; display: flex; color: aqua;text-align: center;">Clouds</h1>
+        <li><img style="float: left;" src="https://st2.depositphotos.com/1093689/7180/v/950/depositphotos_71801855-stock-illustration-happy-joyous-people-as-trees.jpg" alt="" width="10px"></li>
+        <li><a class="active" href="#about">About</a></li>
+        
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#news">News</a></li>
+    
+        <li><a href="#home">Home</a></li>
+      </ul>
+      </header>
+<!--End Header-->
+
+<!--Content-->
+
+
+
+<div>
+<div class="image">
+
+  <p class="para">Ambition is the first step towards</p>
+  <p class="para1"><b>Success</b></p>
+  <p class="para">Now ready to growth</p>
+  <button class="button">Start</button>
+
+  <p class="para2">READY TO RUN</p>
+
+</div>
+
+</div>
+
+<div>
+  <div class="image1">
+ 
+      <div class="img">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTg3OovZCySHtnI6ul13kFCDCiKtayIpc_7Q&usqp=CAU" alt="" class="img">
+
+      </div>
+   
+  </div>
+
+</div>
+
+<!--End COntent-->
+
+<!--Footer-->
+
+    <div class="footer">
+    
+         <ul>
+              <li class="first" style="float: left;">Contact us</li><br>
+              <li>No:29,
+                ram street,
+                raju nagar,
+                Chennai</li>
+              <li>876543652</li>
+          </ul>
+    </div>
+          <a href="#" class="fa fa-facebook"></a>
+          <a href="#" class="fa fa-twitter"></a>
+          <a href="#" class="fa fa-youtube"></a>
+          <a href="#" class="fa fa-instagram"></a>
+          <a href="#" class="fa fa-pinterest"></a>
+          <a href="#" class="fa fa-snapchat-ghost"></a>
+          <a href="#" class="fa fa-skype"></a>
+          <a href="#" class="fa fa-android"></a>
+          <a href="#" class="fa fa-dribbble"></a>
+          <a href="#" class="fa fa-vimeo"></a>
+          <a href="#" class="fa fa-tumblr"></a>
+          <a href="#" class="fa fa-stumbleupon"></a>
+          <a href="#" class="fa fa-flickr"></a>
+          <a href="#" class="fa fa-yahoo"></a>
+  </div>
+</footer>
+
+<!--End Footer-->
+
+</body>
+</html>
